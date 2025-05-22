@@ -22,7 +22,7 @@ A dynamic web project built with HTML, CSS, and JavaScript for an interactive fr
 
 <p align="center">
 Launch the utility: <br/>
-<img src="https://imgur.com/vvpAN3D" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/BpAeeI1.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
 Select the disk:  <br/>
