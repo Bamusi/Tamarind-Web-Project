@@ -1,6 +1,4 @@
-<h1> Tamarind Web Project</h1>
-
- ### [YouTube Demonstration](https://youtu.be/7eJexJVCqJo)
+https://i.imgur.com/JL945Ga.png<h1> Tamarind Web Project</h1>
 
 <h2>Description</h2>
 A dynamic web project built with HTML, CSS, and JavaScript for an interactive frontend, and PHP with JSON for backend data handling. It enables seamless communication between client and server, offering a responsive user interface and efficient data processing.
